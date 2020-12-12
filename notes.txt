@@ -1,0 +1,22 @@
+10-Dec-2020
+-----------
+npx create-react-app react-frontend
+
+npm start
+
+index.html--->index.js---->app.js
+
+https://getbootstrap.com/docs/4.0/getting-started/introduction/----to add bootstrap links
+
+npm install bootstrap --save
+12-Dec-2020
+----------
+https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets---to install react snippets
+
+-------in vscode enter rcc just enter , react code will genearte basically
+
+
+npm install axios --save----to axios api to make rest calls to backend
+
+npm install --save react-router-dom-----install routing in React js
+
